@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm Currently learning Data Science,<br>Looking to collaborate in projects <br>a 3rd year student from IIIT JABALPUR <br>Visited Japan, a JENESYS SCHOLAR <br>Likes to play Table Tennis
+Pre Final year Smart Manufacturing undergraduate at IIITDM Jabalpur<br>
+Passionate about Data Science, Machine Learning, and intelligent systems<br>
+Building hands on experience through practical projects and collaborations<br>
+JENESYS Scholar with international exposure in Japan<br>
+Enjoys playing Table Tennis and participating in competitive environments
 
 
 ## 🌐 Socials:
