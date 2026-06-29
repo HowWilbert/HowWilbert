@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Problems Related to Data Science<br>👯 I’m looking to collaborate on ML related projects<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about ML Models<br>⚡ I love to Play Table Tennis
+🔭 I’m currently working on Problems Related to Data Science<br>👯 I’m looking to collaborate on ML related projects<br>🤝 I’m looking for help with Deep Learning<br>🌱 I’m currently learning Deep Learning<br>💬 Ask me about ML Models<br>⚡ Passionate about Table Tennis
 
 
 ## 🌐 Socials:
